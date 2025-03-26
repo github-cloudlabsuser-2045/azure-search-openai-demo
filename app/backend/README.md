@@ -1,5 +1,6 @@
 # Backend Application
 
+
 This directory contains the backend application for the ChatGPT + Enterprise data + document security project. It's built using Quart, a Python framework for asynchronous web applications, and integrates with Azure Cognitive Search and OpenAI for data retrieval and processing.
 
 ## Overview
